@@ -1,0 +1,10 @@
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\bin\Debug\sectionB_Question1.2.exe.config
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\bin\Debug\sectionB_Question1.2.exe
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\bin\Debug\sectionB_Question1.2.pdb
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\obj\Debug\sectionB_Question1.2.csproj.AssemblyReference.cache
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\obj\Debug\sectionB_Question1._2.Form1.resources
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\obj\Debug\sectionB_Question1._2.Properties.Resources.resources
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\obj\Debug\sectionB_Question1.2.csproj.GenerateResource.cache
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\obj\Debug\sectionB_Question1.2.csproj.CoreCompileInputs.cache
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\obj\Debug\sectionB_Question1.2.exe
+C:\Users\thawl\OneDrive\Desktop\AidanHawleyOCCSE2_SDT621SA\sectionB_Question1.2\sectionB_Question1.2\obj\Debug\sectionB_Question1.2.pdb
